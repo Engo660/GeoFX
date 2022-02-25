@@ -18,7 +18,7 @@ public class App extends Application {
 		Scene scene = new Scene(mc.getView());
 
 		primaryStage.setTitle("GeoFx");
-		primaryStage.getIcons().add(new Image("/img/Globe-icon.png"));
+		primaryStage.getIcons().add(new Image("/img/icono_app.png"));
 		primaryStage.setScene(scene);
 		primaryStage.show();
 
